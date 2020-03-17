@@ -278,6 +278,7 @@ echo $_COOKIE['cookie1'];
 ?>
 <?php
 echo'<strong> Exercice 8  </strong><br>';
+echo 'est ce que ça marche ?';
 ?>
 
 
