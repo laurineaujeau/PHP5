@@ -276,6 +276,8 @@ echo '<br>';
 echo $_COOKIE['cookie0'];
 echo $_COOKIE['cookie1'];
 ?>
-
+<?php
+echo'<strong> Exercice 8  </strong><br>';
+?>
 
 
